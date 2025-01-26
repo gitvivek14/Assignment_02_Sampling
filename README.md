@@ -1,5 +1,5 @@
-# SamplingAssignment
-## Sampling
+# Assignment_02_Sampling
+## Done by Vivek Arora
 Sampling is a technique used to derive insights about a population by analyzing statistics from a representative subset, eliminating the need to examine every individual. To address an initial dataset imbalance—763 non-fraudulent cases and only 9 fraudulent cases—an oversampling approach was applied. This involved generating additional instances of the minority class (fraudulent cases) until it matched the majority class (non-fraudulent cases), resulting in a balanced dataset consolidated into a single data frame.
 
 The following sampling methods were employed:
@@ -26,5 +26,7 @@ In above table, each row corresponds to a sampling technique, and each column re
 
 
 Done by : Vivek Arora
+<br>
 Roll_No : 102203778
+<br>
 Group : 3C42
